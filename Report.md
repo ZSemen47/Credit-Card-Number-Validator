@@ -13,7 +13,8 @@
 На тестирование затрачено: <15 минут>
 
 В результате тестирования выявлены следующие дефекты:
-https://github.com/ZSemen47/Credit-Card-Number-Validator/issues/1#issue-698218645
+
+* https://github.com/ZSemen47/Credit-Card-Number-Validator/issues/1#issue-698218645
 
 ## Описание процесса тестирования
 
@@ -23,7 +24,7 @@ https://github.com/ZSemen47/Credit-Card-Number-Validator/issues/1#issue-69821864
 * String number = "30380484788328" Result is OK
 * String number = "4844983770285970" Result is OK
 
-* Тестирование производилось в следующем окружении:
+## Тестирование производилось в следующем окружении:
 
 <Windows 10 pro>
 <версия Java 11.0.7>
