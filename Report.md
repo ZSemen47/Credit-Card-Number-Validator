@@ -14,7 +14,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* https://github.com/ZSemen47/Credit-Card-Number-Validator/issues/1#issue-698218645
+* [Валидную карту считает невалидной](https://github.com/ZSemen47/Credit-Card-Number-Validator/issues/1#issue-698218645)
 
 ## Описание процесса тестирования
 
